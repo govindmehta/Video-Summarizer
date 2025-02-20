@@ -9,7 +9,6 @@ body,html{
   height: 100%;
   background-color: #333;
 }
-/* Global Styles */
 body {
   margin: 0;
   padding: 0;
@@ -22,7 +21,6 @@ body {
   min-height: 100vh;
 }
 
-/* Container */
 .container {
   text-align: center;
   width: 100%;
@@ -30,14 +28,12 @@ body {
   padding: 20px;
 }
 
-/* Heading */
 h1 {
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 16px;
 }
 
-/* Input Field */
 input {
   width: 100%;
   padding: 10px;
@@ -48,7 +44,6 @@ input {
   color: black;
 }
 
-/* Button */
 button {
   width: 100%;
   padding: 12px;
@@ -65,7 +60,6 @@ button:hover {
   background-color: #0056b3;
 }
 
-/* Summary Box */
 .summary-box {
   margin-top: 20px;
   padding: 15px;
